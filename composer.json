@@ -11,7 +11,9 @@
     "authors": [
         {
             "name": "James Gober",
-            "email": "james@artexmail.com"
+            "email": "james@artexmail.com",
+            "homepage": "https://jamesgober.com",
+            "role": "Lead Developer"
         }
     ],
     "minimum-stability": "dev",
