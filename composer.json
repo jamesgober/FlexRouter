@@ -1,0 +1,19 @@
+{
+    "name": "jamesgober/flex-router",
+    "description": "A very fast and flexible PHP request router project.",
+    "type": "library",
+    "license": "GNU General Public License v3.0",
+    "autoload": {
+        "psr-4": {
+            "Jamesgober\\FlexRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "James Gober",
+            "email": "james@artexmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
